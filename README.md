@@ -1,6 +1,7 @@
-# zenone
+# ZEONE
 Zenone 
 A Programming Language I Made When I Was Bored.
+
 How It Got It's Name:
 Z - for the First Letter Of My Name
 EONE - anagram for Neon (Neon Is Cool).
