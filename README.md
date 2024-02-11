@@ -1,4 +1,4 @@
-# ZEONE
+# ZENONE
 Zenone 
 A Programming Language I Made When I Was Bored.
 
