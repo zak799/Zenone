@@ -2,7 +2,6 @@ import re
 import os
 
 
-
 class Zenone:
     @staticmethod
     def state(state):
