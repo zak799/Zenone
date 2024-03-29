@@ -1,7 +1,8 @@
-zne{func->zne.state("Welcome to ZNE (Zenone) programming language!")}
+zne{func->zne.state("Welcome To Zenone (Programming Language)! ")}
+zne{func->zne.state("View Current Documentation Here: https://zakster.co.uk")}
 
-zne{func->zne.recur("Hello World", 15)}
+zne{stateVar->define#hello("hello owrld")}
 
-zne{stateVar->define#hello("Hello")}
+zne{func->zne.state(hello)}
 
-:hide: This Is Commenting :hide:
+:hide: COMMENTING IS THIS :hide:
