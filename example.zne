@@ -1,8 +1,0 @@
-zne{func->zne.state("Welcome To Zenone (Programming Language)! ")}
-zne{func->zne.state("View Current Documentation Here: https://zakster.co.uk")}
-
-zne{stateVar->define#hello("hello owrld")}
-
-zne{func->zne.state(hello)}
-
-:hide: COMMENTING IS THIS :hide:
