@@ -2,16 +2,16 @@
 # Zenone 
 
 Esoteric Language Built Entirely With Python.
-Includes:
-  ~ Printing
-  ~ Looping
-  ~ Variables
-  ~ Printing/Looping W/ Variables
-  ~ Basic Arithmetics:
-    ~ Addition
-    ~ Subtraction
-    ~ Division
-    ~ Multiplication
+Includes:<br>
+  ~ Printing<br>
+  ~ Looping<br>
+  ~ Variables<br>
+  ~ Printing/Looping W/ Variables<br>
+  ~ Basic Arithmetics:<br>
+    ~ Addition<br>
+    ~ Subtraction<br>
+    ~ Division<br>
+    ~ Multiplication<br><br>
 
-- Also Im Working On The Error Messages, To Be More Helpful, As They Just Show Line Of Which The Error Is On.
-  And, Working On It Currently Using [Lark](https://pypi.org/project/lark/)
+- Also Im Working On The Error Messages, To Be More Helpful, As They Just Show Line Of Which The Error Is On.<br>
+  And, Working On It Currently Using [Lark](https://pypi.org/project/lark/)<br>
