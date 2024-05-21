@@ -8,10 +8,10 @@ Includes:<br>
   ~ Variables<br>
   ~ Printing/Looping W/ Variables<br>
   ~ Basic Arithmetics:<br>
-    &nbsp;~ Addition<br>
-    &nbsp;~ Subtraction<br>
-    &nbsp;~ Division<br>
-    &nbsp;~ Multiplication<br><br>
+    &nbsp;&nbsp;&nbsp;- Addition<br>
+    &nbsp;&nbsp;&nbsp;- Subtraction<br>
+    &nbsp;&nbsp;&nbsp;- Division<br>
+    &nbsp;&nbsp;&nbsp;- Multiplication<br><br>
 
 - Also Im Working On The Error Messages, To Be More Helpful, As They Just Show Line Of Which The Error Is On.<br>
   And, Working On It Currently Using [Lark](https://pypi.org/project/lark/).<br>
